@@ -1,0 +1,9 @@
+langs:
+  - lang_id: 0
+    strings:
+      user_message_help: 'Сообщение для юзера в лс'
+      access_denied: 'Недостаточно прав'
+      unknown_command: 'Неизвестная комманда'
+      game_already_started: 'Игра уже запущена'
+      game_not_started: 'Игра была и так не запущена'
+      done: 'Готово!'

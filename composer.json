@@ -1,0 +1,18 @@
+{
+  "name": "levkopo/mxbots",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [],
+  "require": {
+    "chriskonnertz/string-calc": "^1.0",
+    "ext-mysqli": "*",
+    "thiagoalessio/tesseract_ocr": "^2.12",
+    "levkopo/dbpp": "^0.1.1",
+    "ext-pdo": "*"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
+}

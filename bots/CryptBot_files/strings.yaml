@@ -1,0 +1,85 @@
+langs:
+  - lang_id: 0
+    strings:
+      start: 'Привет!\n
+      Я бот который может зашифровать текст, картинку, музыку, граффити, голосовые сообщения и стикер!\n\n
+      Достаточно отправить мне то что ты хочешь зашифровать!\n\n
+      Приглашай своих друзей и общайся через шифр!\n
+      Удачи :)'
+      decrypted: '✔ Шифр расшифрован:'
+      encrypted: '✔ Зашифровано:'
+      attachment_not_working: '❗ Извините! На данный момент мы не можем зашифровать данное вложение!'
+      decrypted_num: '✔ Расшифровано %d шифра(ов):'
+      too_many_decrypted: '❗ Слишком много шифров в одном сообщении'
+      too_long_audio_message: '❗ Голосовое сообщение больше 20 секунд.'
+      help: 'Помощь'
+      ok: '✔ Принято'
+      invalid: '❗ Шифр сломан или он зашифрован другим ключом'
+
+  - lang_id: 1
+    strings:
+      start: 'Привіт! \n
+      Я бот який може зашифрувати текст, картинку, музику, графіті, голосові повідомлення та стікер!\n\n
+      Досить відправити мені то що ти хочеш зашифрувати!\n\n
+      Запрошуй своїх друзів і спілкуйся через шифр!\n
+      Хай щастить :)'
+      decrypted: '✔ Шифр розшифрований:'
+      encrypted: '✔ Зашифровано:'
+      attachment_not_working: '❗ Вибачте! На даний момент ми не можемо зашифрувати дане вкладення!'
+      decrypted_num: '✔ Розшифровано %d шифру(ів):'
+      too_many_decrypted: '❗ Занадто багато шифрів в одному повідомленні'
+      too_long_audio_message: '❗ Голосове повідомлення більше 20 секунд.'
+      help: 'Допомога'
+      ok: '✔ Прийнято'
+      invalid: '❗ Шифр зламаний або він зашифрований іншим ключем'
+
+  - lang_id: 114
+    strings:
+      start: 'Прывітанне!\n
+      Я бот які можа зашыфраваць тэкст, малюнак, музыку, графіці, галасавыя паведамленні і стыкер!\n\n
+      Достаточно адправіць мне тое што ты хочаш зашыфраваць!\n\n
+      Приглашай сваіх сяброў і май зносіны праз шыфр!\n
+      Удачи :)'
+      decrypted: '✔ Шыфр розшифрований:'
+      encrypted: '✔ Зашыфравана:'
+      attachment_not_working: '❗ Выбачайце! На дадзены момант мы не можам зашыфраваць дадзенае ўкладанне!'
+      decrypted_num: '✔ Расшыфравана %d шыфра(ов):'
+      too_many_decrypted: '❗Занадта шмат шыфраў у адным паведамленні'
+      too_long_audio_message: '❗ Галасавое паведамленне больше 20 секунд.'
+      help: 'Дапамога'
+      ok: '✔ Прынята'
+      invalid: '❗ Шыфр зламаны ці ён зашыфраваны іншым ключом'
+
+  - lang_id: 2
+    strings:
+      start: 'Прывітанне!\n
+      Я бот які можа зашыфраваць тэкст, малюнак, музыку, графіці, галасавыя паведамленні і стыкер!\n\n
+      Достаточно адправіць мне тое што ты хочаш зашыфраваць!\n\n
+      Приглашай сваіх сяброў і май зносіны праз шыфр!\n
+      Удачи :)'
+      decrypted: '✔ Шыфр розшифрований:'
+      encrypted: '✔ Зашыфравана:'
+      attachment_not_working: '❗ Выбачайце! На дадзены момант мы не можам зашыфраваць дадзенае ўкладанне!'
+      decrypted_num: '✔ Расшыфравана %d шыфра(ов):'
+      too_many_decrypted: '❗ Занадта шмат шыфраў у адным паведамленні'
+      too_long_audio_message: '❗ Галасавое паведамленне больше 20 секунд.'
+      help: 'Дапамога'
+      ok: '✔ Прынята'
+      invalid: '❗ Шыфр зламаны ці ён зашыфраваны іншым ключом'
+
+  - lang_id: 3
+    strings:
+      start: 'Hello!\n
+      I am a bot that can encrypt text, pictures, music, graffiti, voice messages and stickers!\n\n
+      It''s enough to send me what you want to encrypt!\n\n
+      Invite your friends and communicate via encryption!\n
+      Good luck :)'
+      decrypted: '✔ Decrypted:'
+      encrypted: '✔ Encrypted:'
+      attachment_not_working: '❗ Excuse me! We are unable to encrypt this attachment at the moment!'
+      decrypted_num: '✔ Decrypted %d cipher (s):'
+      too_many_decrypted: '❗ Too many ciphers in one message'
+      too_long_audio_message: '❗ Voice message more than 20 seconds.'
+      help: 'Help'
+      ok: '✔ OK'
+      invalid: '❗ The cipher is broken or it is encrypted with another key'
